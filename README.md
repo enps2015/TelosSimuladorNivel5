@@ -52,19 +52,10 @@ Este projeto faz parte da Trilha Formação em Dados e consiste na criação de 
 ## Captura de Telas
 
 
-![tela01](https://github.com/user-attachments/assets/e8be43bb-4e5a-4d1e-bb1d-57d094cd8478)
+![tela01](https://github.com/enps2015/TelosSimuladorNivel5/blob/main/tela01.png)
 
-![tela02](https://github.com/user-attachments/assets/ac569bcc-781d-417e-a69d-6e3f44e30e12)
+![tela02](https://github.com/enps2015/TelosSimuladorNivel5/blob/main/tela02.png)
 
-![tela03](https://github.com/user-attachments/assets/103e9ebf-add4-4c29-9122-1d58e07e40dd)
-
-![tela04](https://github.com/user-attachments/assets/7dd08312-804f-414c-bb92-67680dfbf79b)
-
-![tela05](https://github.com/user-attachments/assets/023c4c3e-e640-4191-a97e-b4189ca7d631)
-
-![tela06](https://github.com/user-attachments/assets/ecf5cde9-6fa9-4ef4-bbd5-68ec510bb244)
-
-![tela07](https://github.com/user-attachments/assets/d25c5fc4-6c9a-488b-b7a0-47bcc2c1cd9c)
 
 
 
